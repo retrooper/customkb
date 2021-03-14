@@ -1,0 +1,12 @@
+name: Customkb
+version: 1.0.0
+main: io.github.retrooper.customkb.Main
+commands:
+  customkb:
+    aliases:
+      - customknockback
+softdepend:
+  - packetevents
+  - ProtocolLib
+  - ProtocolSupport
+  - ViaVersion

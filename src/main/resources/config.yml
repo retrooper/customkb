@@ -1,0 +1,4 @@
+knockback_factor_x: 1
+knockback_factor_y: 1
+knockback_factor_z: 1
+async_knockback: false
